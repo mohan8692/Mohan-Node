@@ -1,0 +1,19 @@
+{
+  "name": "mohan-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohan8692/Mohan-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohan8692/Mohan-Node/issues"
+  },
+  "homepage": "https://github.com/mohan8692/Mohan-Node#readme"
+}
